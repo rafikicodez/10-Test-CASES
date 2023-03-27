@@ -1,4 +1,4 @@
-# 10-Test-CASES
+# 10-Test-CASES FOR UI
 
 ## Test Case 1: UI responsiveness test
 
