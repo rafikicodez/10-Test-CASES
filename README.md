@@ -1,6 +1,6 @@
 # 10-Test-CASES
 
-##Test Case 1: UI responsiveness test
+###Test Case 1: UI responsiveness test
 
 Number of test case: 01
 Name of test case: UI Responsiveness Test
