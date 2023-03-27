@@ -1,6 +1,6 @@
 # 10-Test-CASES
 
-###Test Case 1: UI responsiveness test
+## Test Case 1: UI responsiveness test
 
 Number of test case: 01
 Name of test case: UI Responsiveness Test
@@ -14,7 +14,7 @@ Observe the application response time.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the reason why the UI was slow to respond and provide a tentative solution. If the test passes, consider implementing more interactions that can test UI responsiveness.
 
-##Test Case 2: UI Consistency Test
+## Test Case 2: UI Consistency Test
 
 Number of test case: 02
 Name of test case: UI Consistency Test
@@ -28,7 +28,7 @@ Observe the UI elements and their position on each screen.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the inconsistencies observed and provide a tentative solution. If the test passes, consider adding more tests that can reveal UI inconsistencies.
 
-##Test Case 3: UI Navigation Test
+## Test Case 3: UI Navigation Test
 
 Number of test case: 03
 Name of test case: UI Navigation Test
@@ -42,7 +42,7 @@ Observe the navigation flow and its ease.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the difficulty observed and provide a tentative solution. If the test passes, consider adding more tests that can reveal navigation issues.
 
-##Test Case 4: UI Accessibility Test
+## Test Case 4: UI Accessibility Test
 
 Number of test case: 04
 Name of test case: UI Accessibility Test
@@ -56,7 +56,7 @@ Observe the application response and accessibility.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the accessibility issues observed and provide a tentative solution. If the test passes, consider adding more accessibility tests.
 
-##Test Case 5: UI Usability Test
+## Test Case 5: UI Usability Test
 
 Number of test case: 05
 Name of test case: UI Usability Test
@@ -70,7 +70,7 @@ Observe the ease and clarity of the application flow.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the difficulty observed and provide a tentative solution. If the test passes, consider adding more tests that can reveal usability issues.
 
-##Test Case 6: UI Error Handling Test
+## Test Case 6: UI Error Handling Test
 
 Number of test case: 06
 Name of test case: UI Error Handling Test
@@ -84,7 +84,7 @@ Observe the error message and the application behavior.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the error message and the application behavior and provide a tentative solution. If the test passes, consider adding more error handling scenarios.
 
-##Test Case 7: UI Performance Test
+## Test Case 7: UI Performance Test
 
 Number of test case: 07
 Name of test case: UI Performance Test
@@ -98,7 +98,7 @@ Observe the application performance and responsiveness.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the reason why the UI was slow to respond and provide a tentative solution. If the test passes, consider adding more performance tests.
 
-##Test Case 8: UI Security Test
+## Test Case 8: UI Security Test
 
 Number of test case: 08
 Name of test case: UI Security Test
@@ -112,7 +112,7 @@ Observe the application behavior and security measures.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the security issue observed and provide a tentative solution. If the test passes, consider adding more security tests.
 
-##Test Case 9: UI Compatibility Test
+## Test Case 9: UI Compatibility Test
 
 Number of test case: 09
 Name of test case: UI Compatibility Test
@@ -126,7 +126,7 @@ Observe the UI elements and their position on each browser/device.
 Pass/Fail: Pass/Fail
 Result of Test: If the test fails, record the compatibility issue observed and provide a tentative solution. If the test passes, consider adding more compatibility tests.
 
-##Test Case 10: UI Localization Test
+## Test Case 10: UI Localization Test
 
 Number of test case: 10
 Name of test case: UI Localization Test
